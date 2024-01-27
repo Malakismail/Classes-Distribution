@@ -1,0 +1,15 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[SOLUTION]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[SOLUTION]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[SOLUTION]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[SOLUTION]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[SOLUTION]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[SOLUTION]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[R1] ClassesDistribution\[SOLUTION]\ClassesDistribution\bin\Debug\AliBabaAssembleTeam.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[R1] ClassesDistribution\[SOLUTION]\ClassesDistribution\obj\Debug\AliBabaAssembleTeam.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[R1] ClassesDistribution\[SOLUTION]\ClassesDistribution\obj\Debug\AliBabaAssembleTeam.pdb
